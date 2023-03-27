@@ -1,9 +1,9 @@
-<div><h1>😎Github Status</h1></div>
+<div><h1>Github Status</h1></div>
 <br>
 
 ![Zonny117's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonny117&count_private=true&show_icons=true&theme=radical)
 
-<div><h1>🐶Stacks</h1></div>
+<div><h1>Stacks</h1></div>
 <br>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
