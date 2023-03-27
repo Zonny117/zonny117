@@ -2,7 +2,7 @@
 <br>
 
 ![Zonny117's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonny117&count_private=true&show_icons=true&theme=radical)
-<span style="width=100px;">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonny117&layout=compact&theme=tokyonight)
 
 <div><h1>Stacks</h1></div>
