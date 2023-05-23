@@ -4,7 +4,7 @@
 
 ![Zonny117's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonny117&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonny117&layout=compact&theme=tokyonight)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonny117&layout=compact&theme=tokyonight)-->
 
 <div><h1>Stacks</h1></div>
 <br>
@@ -18,4 +18,5 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
