@@ -1,14 +1,14 @@
 
-<div><h1>Github Status</h1></div>
+<div><h1>🏠Github Status</h1></div>
 <br>
 
 ![Zonny117's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonny117&count_private=true&show_icons=true&theme=radical)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonny117&layout=compact&theme=tokyonight)-->
 
-<div><h1>Stacks</h1></div>
+<div><h1>🔥Stacks</h1></div>
 <br>
-<div align="center">
+<div>
   <h3>Front-end</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
