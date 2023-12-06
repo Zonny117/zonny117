@@ -26,4 +26,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobe illustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
