@@ -3,7 +3,7 @@
 <!-- 
 ![Zonny117's GitHub stats](https://github-readme-stats.vercel.app/api?username=zonny117&count_private=true&show_icons=true&theme=radical) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonny117&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonny117&layout=compact&theme=tokyonight) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonj1208)](https://solved.ac/wonj1208/)
 
 <div><h1>🔥Stacks</h1></div>
